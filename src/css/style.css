@@ -1,0 +1,19 @@
+.container {
+  background-color: #fff;
+}
+/* $blue: blue
+$orange: orange
+
+.box
+    color: $blue
+    background: $orange
+    height: 100px
+    width: 100px
+    animation: 3s coloring
+    animation-duration: 2s
+
+@keyframes coloring:
+    0%
+    transform: translatex(100px)
+    50%
+    transform: translatey(100px) */
